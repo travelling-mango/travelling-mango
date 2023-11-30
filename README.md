@@ -7,7 +7,8 @@ margo_dmochowska = {
     'location': 'dorset, uk',
     'computer_lang': ['python', 'r' ],
     'human_lang': ['english', 'polish'],
-    'interests': ['data eng.', 'politics', 'history', 'running', 'swimming', 'climbing', 'hiking', 'writing', 'reading', 'travelling', 'music'],
+    'interests': ['data eng.', 'politics', 'history', 'writing', 'reading', 'travelling', 'music'],
+    'sports': ['running', 'swimming', 'climbing', 'hiking'],
 }
 ```
 
