@@ -22,4 +22,4 @@ I have a BSc in Politics and International Relations (Exeter Uni) and in my fina
 
 👋🏼 add me on LinkedIn!
 
-![linkedin icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)
+[![linkedin icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit](https://www.linkedin.com/in/margodmochowska/)
