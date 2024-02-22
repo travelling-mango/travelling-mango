@@ -4,7 +4,7 @@
 ```python
 margo_dmochowska = {
     'name': 'margo dmochowska',
-    'location': 'dorset, uk',
+    'location': 'exeter, uk',
     'computer_lang': ['python', 'sql', 'aws', 'microsoft azure', 'r' ],
     'human_lang': ['english', 'polish'],
     'interests': ['data eng.', 'politics', 'history', 'writing', 'reading', 'travelling', 'music'],
